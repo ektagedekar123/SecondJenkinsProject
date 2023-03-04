@@ -10,7 +10,7 @@ public class UserController {
 	@GetMapping("/Home")
 	public String WelcomeHome()
 	{
-		return "Welcome to Home";
+		return "Welcome to Ekta Home";
 	}
 
 }
